@@ -2,15 +2,6 @@
 
 This project is an implementation of an Operating System scheduler with Round Robin and Shortest Job First (SJF) algorithms. The scheduler manages the execution of programs that arrive at time zero. Each program is defined in a text file containing instructions for variable assignments, arithmetic operations, file I/O, and print commands. For an overview on how it works, check this link [here](https://drive.google.com/drive/u/0/folders/1lyXMW_PC9wAoxFDoiQh-_VtUu8AFvp6k)
 
-## Snippets from the Project
-
-![Screen Shot 2023-12-22 at 10 10 06 PM](https://github.com/sarahelfeel04/OS-Scheduler/assets/142936159/fc4991bc-8d6c-4e71-85db-089bccea88d2)
-![Screen Shot 2023-12-22 at 10 14 39 PM](https://github.com/sarahelfeel04/OS-Scheduler/assets/142936159/541b95b6-ee1e-4013-9f80-cb009198ce41)
-![Screen Shot 2023-12-22 at 10 14 47 PM](https://github.com/sarahelfeel04/OS-Scheduler/assets/142936159/79cf435a-739e-46c4-8b45-6f80540fc700)
-![Screen Shot 2023-12-22 at 10 15 19 PM](https://github.com/sarahelfeel04/OS-Scheduler/assets/142936159/ec5d85e4-c163-42af-80e5-979fd9a18f20)
-![Screen Shot 2023-12-22 at 10 15 25 PM](https://github.com/sarahelfeel04/OS-Scheduler/assets/142936159/44ea8917-3d42-48fc-be44-4d3dcabbdddb)
-
-
 ## Project Overview
 
 ### Input
@@ -45,6 +36,14 @@ The OS Scheduler project implements a process scheduler capable of managing prog
    - Display the Gantt chart for each scheduling algorithm.
 
 Absolutely, you can simplify the "How to Use" section accordingly. Here's the updated version:
+
+## Snippets from the Project
+
+![Screen Shot 2023-12-22 at 10 10 06 PM](https://github.com/sarahelfeel04/OS-Scheduler/assets/142936159/fc4991bc-8d6c-4e71-85db-089bccea88d2)
+![Screen Shot 2023-12-22 at 10 14 39 PM](https://github.com/sarahelfeel04/OS-Scheduler/assets/142936159/541b95b6-ee1e-4013-9f80-cb009198ce41)
+![Screen Shot 2023-12-22 at 10 14 47 PM](https://github.com/sarahelfeel04/OS-Scheduler/assets/142936159/79cf435a-739e-46c4-8b45-6f80540fc700)
+![Screen Shot 2023-12-22 at 10 15 19 PM](https://github.com/sarahelfeel04/OS-Scheduler/assets/142936159/ec5d85e4-c163-42af-80e5-979fd9a18f20)
+![Screen Shot 2023-12-22 at 10 15 25 PM](https://github.com/sarahelfeel04/OS-Scheduler/assets/142936159/44ea8917-3d42-48fc-be44-4d3dcabbdddb)
 
 ## How to Use
 
